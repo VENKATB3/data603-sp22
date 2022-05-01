@@ -21,4 +21,28 @@ Big data focuses on the accuracy of the forward or determination result usage an
 
 We give criteria for developing big data models in this study. Analyse the substance of each item to present it in a complete customer requirements document.
 
-![](Big Data_1.png)
+![](BigData_1.png)
+
+# There are several techniques to overcome this situation. They are:
+
+# Data Mining
+
+A common tool used within big data analytics, data mining extracts patterns from large data sets by combining methods from statistics and machine learning, within database management. An example would be when customer data is mined to determine which segments are most likely to react to an offer.
+
+# Machine Learning
+
+Well known within the field of artificial intelligence, machine learning is also used for data analysis. Emerging from computer science, it works with computer algorithms to produce assumptions based on data.14 It provides predictions that would be impossible for human analysts.
+
+# Natural Language Processing(NLP)
+
+Known as a subspecialty of computer science, artificial intelligence, and linguistics, this data analysis tool uses algorithms to analyse human (natural) language.
+
+# Statstics
+
+This technique works to collect, organise, and interpret data, within surveys and experiments.
+
+# Discussions and Conclusions
+
+Big Data, low-cost commodity technology, and added information management and analytic tools have combined to create a watershed moment in data analysis history. Because of the convergence of these tendencies, we now have the capabilities to analyse massive data sets fast and cheaply for the first time in history. These abilities are neither hypothetical nor straightforward. They are a significant step forward and a clear chance to achieve massive benefits in efficiency, productivity, revenue, and profitability.
+
+This document does not provide a presentation and assessment strategy for the basic techniques for constructing big data models, therefore the only thing it took to clean the room was some time. In this research will be offered through the creation of deliverables and methods required for the construction of a big data model. 
