@@ -23,23 +23,23 @@ We give criteria for developing big data models in this study. Analyse the subst
 
 ![](BigData_1.png)
 
-# There are several techniques to overcome this situation. They are:
+# Development Methods
 
 # Data Mining
 
-A common tool used within big data analytics, data mining extracts patterns from large data sets by combining methods from statistics and machine learning, within database management. An example would be when customer data is mined to determine which segments are most likely to react to an offer.
+Data mining is the process of predicting outcomes by looking for anomalies, patterns, and correlations in huge data sets. You may use this information to enhance sales, lower costs, strengthen customer connections, reduce risks, and more using a variety of approaches.A common tool used within big data analytics, data mining extracts patterns from large data sets by combining methods from statistics and machine learning, within database management. An example would be when customer data is mined to determine which segments are most likely to react to an offer.
 
 # Machine Learning
 
-Well known within the field of artificial intelligence, machine learning is also used for data analysis. Emerging from computer science, it works with computer algorithms to produce assumptions based on data.14 It provides predictions that would be impossible for human analysts.
+For firms trying to optimize the value of their data, using machine learning algorithms for big data analytics is a logical move. Machine learning tools examine data sets using data-driven algorithms and statistical models, then draw inferences or make predictions based on those patterns.Well known within the field of artificial intelligence, machine learning is also used for data analysis. Emerging from computer science, it works with computer algorithms to produce assumptions based on data.14 It provides predictions that would be impossible for human analysts.
 
 # Natural Language Processing(NLP)
 
-Known as a subspecialty of computer science, artificial intelligence, and linguistics, this data analysis tool uses algorithms to analyse human (natural) language.
+Natural language processing (NLP) is a branch of linguistics, computer science, and artificial intelligence that studies how computers interact with human language, particularly how to design computers to process and analyze massive amounts of natural language data.Known as a subspecialty of computer science, artificial intelligence, and linguistics, this data analysis tool uses algorithms to analyse human (natural) language.
 
 # Statstics
 
-This technique works to collect, organise, and interpret data, within surveys and experiments.
+This technique works to collect, organise, and interpret data, within surveys and experiments. The objective of machine learning and statistics differs significantly. Machine learning models are created with the goal of making the most precise predictions feasible. The purpose of statistical models is to make inferences about the relationships between variables.
 
 # Discussions and Conclusions
 
