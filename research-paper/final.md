@@ -46,3 +46,13 @@ This technique works to collect, organise, and interpret data, within surveys an
 Big Data, low-cost commodity technology, and added information management and analytic tools have combined to create a watershed moment in data analysis history. Because of the convergence of these tendencies, we now have the capabilities to analyse massive data sets fast and cheaply for the first time in history. These abilities are neither hypothetical nor straightforward. They are a significant step forward and a clear chance to achieve massive benefits in efficiency, productivity, revenue, and profitability.
 
 This document does not provide a presentation and assessment strategy for the basic techniques for constructing big data models, therefore the only thing it took to clean the room was some time. In this research will be offered through the creation of deliverables and methods required for the construction of a big data model. 
+
+# References
+
+1. Design of proposal for Big Data Analytics Model - ResearchGate. (n.d.). Retrieved May 2, 2022, from https://www.researchgate.net/publication/311439533_Design_of_proposal_for_big_data_analytics_model 
+
+2. 5 ways in which big data can help leverage customer data. KDnuggets. (n.d.). Retrieved May 1, 2022, from https://www.kdnuggets.com/2016/05/5-ways-big-data-leverage-customer-data.html 
+
+3. Ali, A., Qadir, J., Rasool, R. ur, Sathiaseelan, A., Zwitter, A., &amp; Crowcroft, J. (2016, July 1). Big data for development: Applications and techniques - big data analytics. BioMed Central. Retrieved May 1, 2022, from https://bdataanalytics.biomedcentral.com/articles/10.1186/s41044-016-0002-4 
+
+4. Rahman, M. A. (2020, September 18). 9 common Big Data Analysis Methods. Medium. Retrieved May 1, 2022, from https://medium.com/born-to-lead/9-common-big-data-analysis-methods-9443a83cb6f3 
