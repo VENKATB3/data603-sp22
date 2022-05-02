@@ -1,5 +1,5 @@
 # Abstract
-
+   
 Companies and government agencies have recently begun to develop big data systems for large-scale data processing. Companies are using data analysis to provide a variety of services to their customers after implementing big data platforms. For the open data site, the public sector supplies the information you have in each institution. In addition, by evaluating the data provided through the public data portal, the public is creating a variety of services. However, it has yet to be established how to design a process, including data collecting and service models through data analysis, as well as how to employ normal software development methodologies to set up development projects. After the findings of the data collecting and analysis services plan have been decided, a big data service model is built. This paper outlines a strategy for constructing Big Data service model.
 
 # Introduction
