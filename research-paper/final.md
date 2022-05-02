@@ -56,3 +56,5 @@ This document does not provide a presentation and assessment strategy for the ba
 3. Ali, A., Qadir, J., Rasool, R. ur, Sathiaseelan, A., Zwitter, A., &amp; Crowcroft, J. (2016, July 1). Big data for development: Applications and techniques - big data analytics. BioMed Central. Retrieved May 1, 2022, from https://bdataanalytics.biomedcentral.com/articles/10.1186/s41044-016-0002-4 
 
 4. Rahman, M. A. (2020, September 18). 9 common Big Data Analysis Methods. Medium. Retrieved May 1, 2022, from https://medium.com/born-to-lead/9-common-big-data-analysis-methods-9443a83cb6f3 
+
+5. Gandomi, A., &amp; Haider, M. (2014, December 3). Beyond the hype: Big Data Concepts, methods, and analytics. International Journal of Information Management. Retrieved May 1, 2022, from https://www.sciencedirect.com/science/article/pii/S0268401214001066 
